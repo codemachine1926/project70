@@ -1,0 +1,18 @@
+html {
+        scroll-behavior: smooth;
+    }
+body {
+        text-align: center
+    }
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.ght {
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
